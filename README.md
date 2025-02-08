@@ -26,3 +26,5 @@ Food Generation: Placing food at random positions.
 Collision Detection: Checking for self-collisions and boundary collisions.
 
 Scoring System: Keeping track of the player’s score.
+
+![Image](https://github.com/user-attachments/assets/7fd8069a-0158-4966-8f5f-fac180fa90eb)
